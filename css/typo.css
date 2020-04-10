@@ -46,6 +46,13 @@ h3{
   color: #D1AED5;
 }
 
+.coordonnees{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: 400;
+  font-size: 2em;
+  line-height: 45px;
+  text-align: center;
+}
 
 #main-menu{
   font-family: 'Amatic SC', cursive;
